@@ -1,5 +1,8 @@
 # OmniAuth OAuth2
 
+⚠   **NOTICE**: You are viewing the README of the **master** branch of the **MichalDron** fork of the **omniauth-oauth2** gem.
+This document may refer to features not yet released. This code may contain features and changes harmful or flawed.
+
 [![Gem Version](http://img.shields.io/gem/v/omniauth-oauth2.svg)][gem]
 [![Code Climate](http://img.shields.io/codeclimate/maintainability/intridea/omniauth-oauth2.svg)][codeclimate]
 [![Coverage Status](http://img.shields.io/coveralls/intridea/omniauth-oauth2.svg)][coveralls]
